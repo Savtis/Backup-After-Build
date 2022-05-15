@@ -12,3 +12,5 @@
 N$My^Project E$py B$C:\Documents\ProjectBackups P$C:\Desktop\Stuff\Python^Project
 
 В этом примере файлы с расширением .py будут копированы из папки "C:\Desktop\Stuff\Python Project" в папку "C:\Documents\ProjectBackups\My Project"
+
+в программе много уязвимостей и багов, например, можно ввести пустое название проекта или невозможность использовать пути, в названии которых есть символ ^. Но мне всё равно.
